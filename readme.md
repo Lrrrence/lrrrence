@@ -2,7 +2,7 @@
 
 I'm a research fellow at the University of Southampton, United Kingdom. 
 
-I use a combination of Python, R, MATLAB, and LaTeX in my work, which covers data analysis/visualisation, signal processing, machine learning, finite element modelling, and techical writing. I also have an interest in working with geospatial data.
+I use a combination of Python, R, MATLAB, and LaTeX in my work, which covers data analysis/visualisation, signal processing, machine learning, finite element modelling, and technical writing. I also have an interest in working with geospatial data.
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
