@@ -1,6 +1,6 @@
 ## Hi, I'm Lawrence, welcome to my GitHub page!
 
-I'm a research fellow at the University of Southampton, United Kingdom. 
+I'm an Environmental Data Scientist for [Quanterra Systems](https://www.quanterrasystems.com).
 
 I use a combination of Python, R, MATLAB, and LaTeX in my work, which covers data analysis/visualisation, signal processing, machine learning, finite element modelling, and technical writing. I also have an interest in working with geospatial data.
 
